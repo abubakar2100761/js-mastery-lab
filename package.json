@@ -1,0 +1,21 @@
+{
+  "name": "js-mastery-lab",
+  "version": "1.0.0",
+  "description": "2-Week JavaScript Mastery Workbook – Pure JS Task Manager (Backend-first preparation)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abubakar2100761/js-mastery-lab.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/abubakar2100761/js-mastery-lab/issues"
+  },
+  "homepage": "https://github.com/abubakar2100761/js-mastery-lab#readme"
+}
